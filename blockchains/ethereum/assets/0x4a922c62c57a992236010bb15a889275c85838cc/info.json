@@ -1,0 +1,11 @@
+{
+    "name": "Nearkat NFT",
+    "type": "BEP20",
+    "symbol": "NEARFT",
+    "decimals": 18,
+    "website": "https://nearkat.netlify.app",
+    "description": "Nearkat is a more interactive way to create and manage NFTs based on the Near ecosystem.",
+    "explorer": "https://bscscan.com/token/0x4a922c62c57a992236010bb15a889275c85838cc",
+    "status": "active",
+    "id": "0x4a922c62c57a992236010bb15a889275c85838cc"
+}
